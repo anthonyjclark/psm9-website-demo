@@ -6,6 +6,7 @@
 4. Edit that file
 5. Change the GitHub Pages settings (Settings->Pages->(see image below))
 6. Optional
+
   1. Add some styling with CSS
   2. Add some interaction with JS
 
